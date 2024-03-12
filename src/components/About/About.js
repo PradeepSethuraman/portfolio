@@ -17,7 +17,7 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/Firefly_a_guy_who_wearing_a_power_glasses_bigger_than_his_eyes_and_wearing_a_white_grey_hoodie_he_ha-removebg-preview.png"
+            src="/pradie.png"
             alt="man-svgrepo"
           />
         </ScrollAnimation>
